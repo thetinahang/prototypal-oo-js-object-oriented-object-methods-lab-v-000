@@ -8,12 +8,12 @@ BoardMember.prototype.veto() {
   return 'No, I must disagree';
 }
 
-BoardMember.prototype.veto() {
+BoardMember.prototype.approve() {
   return 'No, I must disagree';
 }
 
 BoardMember.prototype.veto() {
-  return 'No, I must disagree';
+  return 'You can do that!';
 }
 
 BoardMember.prototype.veto() {
