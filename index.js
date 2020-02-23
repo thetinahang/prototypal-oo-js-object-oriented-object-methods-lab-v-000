@@ -16,10 +16,10 @@ BoardMember.prototype.doCharity() {
   return 'I like to help people.';
 }
 
-BoardMember.prototype.veto() {
-  return 'No, I must disagree';
+BoardMember.prototype.releasePressStatement() {
+  return 'You will see great things from Scuber.';
 }
 
-BoardMember.prototype.veto() {
+BoardMember.prototype.sayHi() {
   return 'No, I must disagree';
 }
