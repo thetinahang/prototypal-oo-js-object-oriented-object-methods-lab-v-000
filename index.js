@@ -12,8 +12,8 @@ BoardMember.prototype.approve() {
   return 'No, I must disagree';
 }
 
-BoardMember.prototype.veto() {
-  return 'You can do that!';
+BoardMember.prototype.doCharity() {
+  return 'I like to help people.';
 }
 
 BoardMember.prototype.veto() {
