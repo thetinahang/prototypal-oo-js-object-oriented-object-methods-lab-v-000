@@ -21,5 +21,5 @@ BoardMember.prototype.releasePressStatement() {
 }
 
 BoardMember.prototype.sayHi() {
-  return 'No, I must disagree';
+  return `Hi, my name is ${this.name}. I am from <homestate>, and I was trained in ${this.training}.`;
 }
